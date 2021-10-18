@@ -24,7 +24,7 @@ while (!isOperator) {
         isOperator = true;
     }
 }
-console.log('it worked! you shall pass...🧙 ');
+console.log('Thank you ');
 
 // 2.Then the user enters one of these options: "/" "*" "-" "+"
 

@@ -1,0 +1,14 @@
+{
+  "name": "nodecalculator",
+  "version": "1.0.0",
+  "description": "Terminal-based calculator program using Node.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
